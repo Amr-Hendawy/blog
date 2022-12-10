@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 0,
+      "author": "Amr Hendawy",
+      "title": "My new website",
+      "body": "English Teacher"
+    },
+    {
+      "id": 1,
+      "author": "John",
+      "title": "Welcome party!",
+      "body": "German Guide"
+    },
+    {
+      "id": 5,
+      "author": "John",
+      "title": "Web dev top tips",
+      "body": "Doctor"
+    }
+  ]
+}
